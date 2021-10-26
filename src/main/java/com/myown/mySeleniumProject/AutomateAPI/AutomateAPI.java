@@ -50,9 +50,7 @@ public class AutomateAPI
     	Assert.assertEquals(getstatuscode,200,"As expected");
     	
     	getresponse.prettyPrint();
-    	
-    	//Environment 1
-    	//Conflict with Environment1
+
    
     	
     }	
